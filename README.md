@@ -4,6 +4,7 @@ To Find publicly available data for key factors that influence US home prices *n
 Use the S&P Case-Schiller Home Price Index as a proxy for home prices: fred.stlouisfed.org/series/CSUSHPISA.
 
 Approach:
+Key Factors-
 
 •	Unemployment Rate
 •	Per Capita GDP
